@@ -1,7 +1,7 @@
 # Chủ Tịch Tập Đoản thỉu neng đe quốc gia xin kinh chèo mậu ngừi 👋
-#### 🔭 tui sống tại Quận 7, TP.HCM
-#### 🌱 tui đang học làm bot nè
-#### 👰 he he tui là nhà nghiên cứu ngu ngok
+#### 🔭 tui sống tại Quận 7, TP.HCM 🔭
+#### 🌱 tui đang học làm bot nè 🌱
+#### 👰 he he tui là nhà nghiên cứu ngu ngok vĩ đại 👰
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iron-07&show_icons=true&theme=nightowl)](https://github.com/IRON-07)
 
 <br>
